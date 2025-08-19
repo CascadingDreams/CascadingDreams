@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sammy</h1>
-<h3 align="center">☕️☕️--> ༼ つ ◕_◕ ༽つ --> ___code___</h3>
 <p align="left">
 </p>
 
