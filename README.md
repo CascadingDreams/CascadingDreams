@@ -60,7 +60,7 @@
 <tr>
 <td width="50%">
 
-### 🎬 [StreamTracker](https://github.com/CascadingDreams/streamtracker)
+### 🎬 [StreamTracker](https://github.com/CascadingDreams/Simple-tv-and-movie-tracker)
 A full-stack streaming watchlist app with user authentication and smart recommendations.
 
 **Stack:** Python · Flask · PostgreSQL · Vanilla JS · Docker · TMDB API · JWT
@@ -72,7 +72,7 @@ A full-stack streaming watchlist app with user authentication and smart recommen
 </td>
 <td width="50%">
 
-### 🏠 [Victorian Mortgage Calculator](https://github.com/CascadingDreams/victorian-mortgage-calculator)
+### 🏠 [Victorian Mortgage Calculator](https://github.com/CascadingDreams/vic-home-calculator)
 An interactive calculator for Victorian first home buyers — stamp duty, grants, repayments.
 
 **Stack:** React · Vite · Vitest · GitHub Actions CI
@@ -86,7 +86,7 @@ An interactive calculator for Victorian first home buyers — stamp duty, grants
 <tr>
 <td width="50%">
 
-### 🤖 [gcm — AI Commit Messages](https://github.com/CascadingDreams/gcm)
+### 🤖 [gcm — AI Commit Messages](https://github.com/CascadingDreams/gcm-tool)
 A Python CLI that generates conventional git commit messages using the Anthropic API.
 
 **Stack:** Python · Anthropic SDK · Click
@@ -98,7 +98,7 @@ A Python CLI that generates conventional git commit messages using the Anthropic
 </td>
 <td width="50%">
 
-### 🐚 [Unix Shell in C](https://github.com/CascadingDreams/simple_shell)
+### 🐚 [Unix Shell in C](https://github.com/CascadingDreams/simple-custom-shell)
 A POSIX-compliant Unix shell built from scratch in C as part of Holberton School.
 
 **Stack:** C · POSIX · Unix system calls
