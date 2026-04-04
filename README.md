@@ -137,6 +137,7 @@ Melbourne, Australia
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0533?style=for-the-badge&logo=firefox&logoColor=c4a8e8)](https://samanthahill.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=c4a8e8)](https://linkedin.com/in/samanthahill)
 [![GitHub](https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=f3e8ff)](https://github.com/CascadingDreams)
 [![Email](https://img.shields.io/badge/Email-1a0533?style=for-the-badge&logo=gmail&logoColor=c4a8e8)](mailto:myallio94@gmail.com)
