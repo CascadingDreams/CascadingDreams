@@ -92,7 +92,7 @@ A Python CLI that generates conventional git commit messages using the Anthropic
 **Stack:** Python · Anthropic SDK · Click
 
 - Conventional commit format output
-- Litellm-powered with option to use multiple LLM APIs
+- Anthropic-powered AI tool
 - Installable CLI tool
 
 </td>
