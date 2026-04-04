@@ -17,7 +17,7 @@ I build things that are useful, well-structured, and occasionally over-engineere
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -47,7 +47,7 @@ I build things that are useful, well-structured, and occasionally over-engineere
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
 <tr>
@@ -58,9 +58,9 @@ A full-stack streaming watchlist app with user authentication and smart recommen
 
 **Stack:** Python · Flask · PostgreSQL · Vanilla JS · Docker · TMDB API · JWT
 
-- 🔐 JWT-based auth flow
-- 🐳 Fully containerised with Docker
-- 🎥 Live movie/TV data via TMDB API
+- JWT-based auth flow
+- Fully containerised with Docker
+- Live movie/TV data via TMDB API
 
 </td>
 <td width="50%">
@@ -70,9 +70,9 @@ An interactive calculator for Victorian first home buyers — stamp duty, grants
 
 **Stack:** React · Vite · Vitest · GitHub Actions CI
 
-- ✅ Full unit test coverage with Vitest
-- ⚙️ CI pipeline via GitHub Actions
-- 🏡 Victorian FHOG & stamp duty logic
+- Full unit test coverage with Vitest
+- CI pipeline via GitHub Actions
+- Victorian FHOG & stamp duty logic
 
 </td>
 </tr>
@@ -84,9 +84,9 @@ A Python CLI that generates conventional git commit messages using the Anthropic
 
 **Stack:** Python · Anthropic SDK · Click
 
-- 💬 Conventional commit format output
-- 🔑 Anthropic Claude-powered
-- 📦 Installable CLI tool
+- Conventional commit format output
+- Litellm-powered with option to use multiple LLM APIs
+- Installable CLI tool
 
 </td>
 <td width="50%">
@@ -96,9 +96,9 @@ A POSIX-compliant Unix shell built from scratch in C as part of Holberton School
 
 **Stack:** C · POSIX · Unix system calls
 
-- 🔧 Process forking & exec
-- 📂 PATH resolution
-- 🧠 Built during intensive low-level systems study
+- Process forking & exec
+- PATH resolution
+- Built during intensive low-level systems study
 
 </td>
 </tr>
@@ -106,27 +106,27 @@ A POSIX-compliant Unix shell built from scratch in C as part of Holberton School
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certification | Issuer | Status |
 |---|---|---|
-| ☁️ AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services | ✅ Active |
-| 🔷 Microsoft Azure Fundamentals (AZ-900) | Microsoft | ✅ Active |
+| AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services | ✅ Active |
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft | ✅ Active |
 
 ---
 
-## 🎓 Background
+## Background
 
 ```
-💼  7 years in SaaS/B2B marketing
-🎓  Holberton School — Full-Stack Software Engineering (2024–2025)
-🏛️  ICT Engineer @ Australian Government
-📍  Melbourne, Australia
+7 years in SaaS/B2B marketing
+Holberton School — Full-Stack Software Engineering (2024–2025)
+ICT Engineer @ Australian Government
+Melbourne, Australia
 ```
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 <div align="center">
 
