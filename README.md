@@ -4,19 +4,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-```
-Full-stack developer transitioning from SaaS analytics into software engineering.
-I build things that are useful, well-structured, and occasionally over-engineered in the best way.
-```
-
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
