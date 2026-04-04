@@ -27,21 +27,41 @@ I build things that are useful, well-structured, and occasionally over-engineere
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![C](https://img.shields.io/badge/C-1a0533?style=for-the-badge&logo=c&logoColor=c4a8e8)
 ![SQL](https://img.shields.io/badge/SQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=c4a8e8)
+![HTML5](https://img.shields.io/badge/HTML5-1a0533?style=for-the-badge&logo=html5&logoColor=e2623b)
+![CSS3](https://img.shields.io/badge/CSS3-1a0533?style=for-the-badge&logo=css3&logoColor=818cf8)
+![Bash](https://img.shields.io/badge/Bash-1a0533?style=for-the-badge&logo=gnubash&logoColor=c4a8e8)
 
-**Frameworks & Libraries**
+**Frameworks, Libraries & Tools**
 
 ![React](https://img.shields.io/badge/React-1a0533?style=for-the-badge&logo=react&logoColor=c084fc)
 ![Flask](https://img.shields.io/badge/Flask-1a0533?style=for-the-badge&logo=flask&logoColor=f3e8ff)
-![Vite](https://img.shields.io/badge/Vite-1a0533?style=for-the-badge&logo=vite&logoColor=a78bfa)
+![Express](https://img.shields.io/badge/Express-1a0533?style=for-the-badge&logo=express&logoColor=f3e8ff)
 ![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=for-the-badge&logo=node.js&logoColor=c4a8e8)
+![Vite](https://img.shields.io/badge/Vite-1a0533?style=for-the-badge&logo=vite&logoColor=a78bfa)
+![Vitest](https://img.shields.io/badge/Vitest-1a0533?style=for-the-badge&logo=vitest&logoColor=a78bfa)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1a0533?style=for-the-badge&logo=python&logoColor=c4a8e8)
+![Postman](https://img.shields.io/badge/Postman-1a0533?style=for-the-badge&logo=postman&logoColor=e2623b)
 
-**Infrastructure & Tools**
+**Data & BI**
 
+![Power BI](https://img.shields.io/badge/Power_BI-1a0533?style=for-the-badge&logo=powerbi&logoColor=f2c811)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-1a0533?style=for-the-badge&logo=googleanalytics&logoColor=f2c811)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-1a0533?style=for-the-badge&logo=looker&logoColor=c084fc)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-1a0533?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
+![Azure](https://img.shields.io/badge/Azure-1a0533?style=for-the-badge&logo=microsoftazure&logoColor=818cf8)
 ![Docker](https://img.shields.io/badge/Docker-1a0533?style=for-the-badge&logo=docker&logoColor=7c3aed)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=c4a8e8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a0533?style=for-the-badge&logo=githubactions&logoColor=f3e8ff)
-![AWS](https://img.shields.io/badge/AWS-1a0533?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
-![Azure](https://img.shields.io/badge/Azure-1a0533?style=for-the-badge&logo=microsoftazure&logoColor=818cf8)
+![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=e2623b)
+![Linux](https://img.shields.io/badge/Linux-1a0533?style=for-the-badge&logo=linux&logoColor=c4a8e8)
+
+**Collaboration**
+
+![Confluence](https://img.shields.io/badge/Confluence-1a0533?style=for-the-badge&logo=confluence&logoColor=818cf8)
+![Jira](https://img.shields.io/badge/Jira-1a0533?style=for-the-badge&logo=jira&logoColor=818cf8)
 
 </div>
 
