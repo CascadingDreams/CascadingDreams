@@ -39,6 +39,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-1a0533?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
 ![Azure](https://img.shields.io/badge/Azure-1a0533?style=for-the-badge&logo=microsoftazure&logoColor=818cf8)
+![Terraform](https://img.shields.io/badge/Terraform-1a0533?style=for-the-badge&logo=terraform&logoColor=a78bfa)
 ![Docker](https://img.shields.io/badge/Docker-1a0533?style=for-the-badge&logo=docker&logoColor=7c3aed)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=c4a8e8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a0533?style=for-the-badge&logo=githubactions&logoColor=f3e8ff)
@@ -60,6 +61,18 @@
 <tr>
 <td width="50%">
 
+### ☁️ [AWS Health Monitor](https://github.com/CascadingDreams/aws-health-monitor) 🚧
+A serverless AWS infrastructure health monitor — Lambda checks S3 availability, publishes custom CloudWatch metrics, and sends SNS email alerts when unhealthy. All provisioned with Terraform.
+
+**Stack:** Python · boto3 · AWS Lambda · CloudWatch · SNS · Terraform
+
+- Least-privilege IAM role design
+- S3 remote state backend
+- Custom CloudWatch metrics + alerting
+
+</td>
+<td width="50%">
+
 ### 🎬 [StreamTracker](https://github.com/CascadingDreams/Simple-tv-and-movie-tracker)
 A full-stack streaming watchlist app with user authentication and smart recommendations.
 
@@ -70,6 +83,8 @@ A full-stack streaming watchlist app with user authentication and smart recommen
 - Live movie/TV data via TMDB API
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🏠 [Victorian Mortgage Calculator](https://github.com/CascadingDreams/vic-home-calculator)
@@ -82,8 +97,6 @@ An interactive calculator for Victorian first home buyers — stamp duty, grants
 - Victorian FHOG & stamp duty logic
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🤖 [gcm — AI Commit Messages](https://github.com/CascadingDreams/gcm-tool)
@@ -96,6 +109,8 @@ A Python CLI that generates conventional git commit messages using the Anthropic
 - Installable CLI tool
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🐚 [Unix Shell in C](https://github.com/CascadingDreams/simple-custom-shell)
@@ -108,6 +123,7 @@ A POSIX-compliant Unix shell built from scratch in C as part of Holberton School
 - Built during intensive low-level systems study
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -140,7 +156,7 @@ Melbourne, Australia
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a0533?style=for-the-badge&logo=firefox&logoColor=c4a8e8)](https://samanthahill.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=c4a8e8)](https://www.linkedin.com/in/sammy-hill-173078142/)
 [![GitHub](https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=f3e8ff)](https://github.com/CascadingDreams)
-[![Email](https://img.shields.io/badge/Email-1a0533?style=for-the-badge&logo=gmail&logoColor=c4a8e8)](mailto:myallio94@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1a0533?style=for-the-badge&logo=gmail&logoColor=c4a8e8)](mailto:contact@samanthahill.dev)
 
 </div>
 
