@@ -61,13 +61,13 @@
 <tr>
 <td width="50%">
 
-### ☁️ [AWS Health Monitor](https://github.com/CascadingDreams/aws-health-monitor) 🚧
+### ☁️ [AWS Health Monitor](https://github.com/CascadingDreams/aws-health-monitor)
 A serverless AWS infrastructure health monitor — Lambda checks S3 availability, publishes custom CloudWatch metrics, and sends SNS email alerts when unhealthy. All provisioned with Terraform.
 
-**Stack:** Python · boto3 · AWS Lambda · CloudWatch · SNS · Terraform
+**Stack:** Python · boto3 · AWS Lambda · CloudWatch · SNS · Terraform · CI/CD · GitHub Actions
 
 - Least-privilege IAM role design
-- S3 remote state backend
+- CI/CD GitHub Actions for linting and exec
 - Custom CloudWatch metrics + alerting
 
 </td>
