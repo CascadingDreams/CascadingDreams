@@ -26,11 +26,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=for-the-badge&logo=node.js&logoColor=c4a8e8)
 ![Vite](https://img.shields.io/badge/Vite-1a0533?style=for-the-badge&logo=vite&logoColor=a78bfa)
 ![Vitest](https://img.shields.io/badge/Vitest-1a0533?style=for-the-badge&logo=vitest&logoColor=a78bfa)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1a0533?style=for-the-badge&logo=python&logoColor=c4a8e8)
 ![Postman](https://img.shields.io/badge/Postman-1a0533?style=for-the-badge&logo=postman&logoColor=e2623b)
 
-**Data & BI**
+**Data, Databases & BI**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=c4a8e8)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1a0533?style=for-the-badge&logo=python&logoColor=c4a8e8)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-1a0533?style=for-the-badge&logo=apachekafka&logoColor=f3e8ff)
 ![Power BI](https://img.shields.io/badge/Power_BI-1a0533?style=for-the-badge&logo=powerbi&logoColor=f2c811)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-1a0533?style=for-the-badge&logo=googleanalytics&logoColor=f2c811)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-1a0533?style=for-the-badge&logo=looker&logoColor=c084fc)
@@ -41,7 +43,6 @@
 ![Azure](https://img.shields.io/badge/Azure-1a0533?style=for-the-badge&logo=microsoftazure&logoColor=818cf8)
 ![Terraform](https://img.shields.io/badge/Terraform-1a0533?style=for-the-badge&logo=terraform&logoColor=a78bfa)
 ![Docker](https://img.shields.io/badge/Docker-1a0533?style=for-the-badge&logo=docker&logoColor=7c3aed)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=c4a8e8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a0533?style=for-the-badge&logo=githubactions&logoColor=f3e8ff)
 ![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=e2623b)
 ![Linux](https://img.shields.io/badge/Linux-1a0533?style=for-the-badge&logo=linux&logoColor=c4a8e8)
@@ -61,6 +62,18 @@
 <tr>
 <td width="50%">
 
+### ⚡ [Kafka Notification Pipeline](https://github.com/CascadingDreams/kafka-notification-pipeline) `WIP`
+An event-driven notification pipeline mimicking real-world banking infrastructure. A Flask producer emits Avro-encoded events to Kafka topics, a Python consumer processes and persists them to PostgreSQL, and a React dashboard shows live event throughput.
+
+**Stack:** Python · Flask · Apache Kafka · Avro · PostgreSQL · React · Vite · Docker Compose · GitHub Actions
+
+- Event-driven architecture with dead letter queue
+- Avro schemas + Schema Registry for message contracts
+- Live pipeline visualiser dashboard
+
+</td>
+<td width="50%">
+
 ### ☁️ [AWS Health Monitor](https://github.com/CascadingDreams/aws-health-monitor)
 A serverless AWS infrastructure health monitor — Lambda checks S3 availability, publishes custom CloudWatch metrics, and sends SNS email alerts when unhealthy. All provisioned with Terraform.
 
@@ -71,6 +84,8 @@ A serverless AWS infrastructure health monitor — Lambda checks S3 availability
 - Custom CloudWatch metrics + alerting
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎬 [StreamTracker](https://github.com/CascadingDreams/Simple-tv-and-movie-tracker)
@@ -83,8 +98,6 @@ A full-stack streaming watchlist app with user authentication and smart recommen
 - Live movie/TV data via TMDB API
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🏠 [Victorian Mortgage Calculator](https://github.com/CascadingDreams/vic-home-calculator)
@@ -97,6 +110,8 @@ An interactive calculator for Victorian first home buyers — stamp duty, grants
 - Victorian FHOG & stamp duty logic
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🤖 [gcm — AI Commit Messages](https://github.com/CascadingDreams/gcm-tool)
@@ -109,8 +124,6 @@ A Python CLI that generates conventional git commit messages using the Anthropic
 - Installable CLI tool
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🐚 [Unix Shell in C](https://github.com/CascadingDreams/simple-custom-shell)
@@ -123,7 +136,6 @@ A POSIX-compliant Unix shell built from scratch in C as part of Holberton School
 - Built during intensive low-level systems study
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
@@ -135,17 +147,6 @@ A POSIX-compliant Unix shell built from scratch in C as part of Holberton School
 |---|---|---|
 | AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services | ✅ Active |
 | Microsoft Azure Fundamentals (AZ-900) | Microsoft | ✅ Active |
-
----
-
-## Background
-
-```
-7 years in SaaS/B2B marketing
-Holberton School — Full-Stack Software Engineering (2024–2025)
-ICT Engineer @ Australian Government
-Melbourne, Australia
-```
 
 ---
 
