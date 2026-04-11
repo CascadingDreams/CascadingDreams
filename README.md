@@ -11,7 +11,7 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=c4a8e8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=for-the-badge&logo=typescript&logoColor=3178c6)
 ![C](https://img.shields.io/badge/C-1a0533?style=for-the-badge&logo=c&logoColor=c4a8e8)
 ![SQL](https://img.shields.io/badge/SQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=c4a8e8)
 ![HTML5](https://img.shields.io/badge/HTML5-1a0533?style=for-the-badge&logo=html5&logoColor=e2623b)
@@ -21,9 +21,10 @@
 **Frameworks, Libraries & Tools**
 
 ![React](https://img.shields.io/badge/React-1a0533?style=for-the-badge&logo=react&logoColor=c084fc)
+![Hono](https://img.shields.io/badge/Hono-1a0533?style=for-the-badge&logo=hono&logoColor=e36002)
 ![Flask](https://img.shields.io/badge/Flask-1a0533?style=for-the-badge&logo=flask&logoColor=f3e8ff)
-![Express](https://img.shields.io/badge/Express-1a0533?style=for-the-badge&logo=express&logoColor=f3e8ff)
 ![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=for-the-badge&logo=node.js&logoColor=c4a8e8)
+![Zod](https://img.shields.io/badge/Zod-1a0533?style=for-the-badge&logo=zod&logoColor=3068b7)
 ![Vite](https://img.shields.io/badge/Vite-1a0533?style=for-the-badge&logo=vite&logoColor=a78bfa)
 ![Vitest](https://img.shields.io/badge/Vitest-1a0533?style=for-the-badge&logo=vitest&logoColor=a78bfa)
 ![Postman](https://img.shields.io/badge/Postman-1a0533?style=for-the-badge&logo=postman&logoColor=e2623b)
@@ -63,12 +64,12 @@
 <td width="50%">
 
 ### ⚡ [Kafka Notification Pipeline](https://github.com/CascadingDreams/kafka-notification-pipeline) `WIP`
-An event-driven notification pipeline mimicking real-world banking infrastructure. A Flask producer emits Avro-encoded events to Kafka topics, a Python consumer processes and persists them to PostgreSQL, and a React dashboard shows live event throughput.
+Event-driven pipeline inspired by financial services infrastructure — Hono producer validates requests with Zod and serialises events as Avro to Apache Kafka via Confluent Schema Registry, consumer processes and persists to PostgreSQL, React dashboard visualises live event throughput.
 
-**Stack:** Python · Flask · Apache Kafka · Avro · PostgreSQL · React · Vite · Docker Compose · GitHub Actions
+**Stack:** TypeScript · Hono · kafkajs · Apache Kafka · Zod · Avro · PostgreSQL · React · Vite · Docker · vitest · GitHub Actions
 
 - Event-driven architecture with dead letter queue
-- Avro schemas + Schema Registry for message contracts
+- Avro + Confluent Schema Registry for message contracts
 - Live pipeline visualiser dashboard
 
 </td>
@@ -117,11 +118,11 @@ An interactive calculator for Victorian first home buyers — stamp duty, grants
 ### 🤖 [gcm — AI Commit Messages](https://github.com/CascadingDreams/gcm-tool)
 A Python CLI that generates conventional git commit messages using the Anthropic API.
 
-**Stack:** Python · Anthropic SDK · Click
+**Stack:** Python · Anthropic SDK · argparse
 
 - Conventional commit format output
 - Anthropic-powered AI tool
-- Installable CLI tool
+- Installable via pipx, published to PyPI
 
 </td>
 <td width="50%">
