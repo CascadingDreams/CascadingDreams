@@ -151,6 +151,12 @@ A POSIX-compliant Unix shell built from scratch in C as part of Holberton School
 
 ---
 
+## Curious how I learn with AI?
+
+Check out my learning prompt and workflow: https://www.notion.so/Sammy-s-AI-learning-prompt-342edccf116b8081be53e565b645b3f7
+
+---
+
 ## Get in Touch
 
 <div align="center">
