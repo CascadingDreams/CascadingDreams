@@ -104,7 +104,7 @@ A full-stack streaming watchlist app with user authentication and smart recommen
 </td>
 <td width="50%">
 
-### 🏠 [Victorian Mortgage Calculator](https://github.com/CascadingDreams/vic-home-calculator)
+### 🏠 [Victoria Mortgage Calculator](https://github.com/CascadingDreams/vic-home-calculator)
 An interactive calculator for Victorian first home buyers — stamp duty, grants, repayments.
 
 **Stack:** React · Vite · Vitest · GitHub Actions CI
