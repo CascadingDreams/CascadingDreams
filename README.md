@@ -16,16 +16,19 @@
 ![SQL](https://img.shields.io/badge/SQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=c4a8e8)
 ![Bash](https://img.shields.io/badge/Bash-1a0533?style=for-the-badge&logo=gnubash&logoColor=c4a8e8)
 
-**Frameworks, Libraries & Tools**
+**Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-1a0533?style=for-the-badge&logo=react&logoColor=c084fc)
 ![Flask](https://img.shields.io/badge/Flask-1a0533?style=for-the-badge&logo=flask&logoColor=f3e8ff)
 ![Express](https://img.shields.io/badge/Express-1a0533?style=for-the-badge&logo=express&logoColor=f3e8ff)
 ![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=for-the-badge&logo=node.js&logoColor=c4a8e8)
-![Vite](https://img.shields.io/badge/Vite-1a0533?style=for-the-badge&logo=vite&logoColor=a78bfa)
-![Vitest](https://img.shields.io/badge/Vitest-1a0533?style=for-the-badge&logo=vitest&logoColor=a78bfa)
 ![Hono](https://img.shields.io/badge/Hono-1a0533?style=for-the-badge&logo=hono&logoColor=e36002)
 ![Zod](https://img.shields.io/badge/Zod-1a0533?style=for-the-badge&logo=zod&logoColor=3068b7)
+
+**Tools**
+
+![Vite](https://img.shields.io/badge/Vite-1a0533?style=for-the-badge&logo=vite&logoColor=a78bfa)
+![Vitest](https://img.shields.io/badge/Vitest-1a0533?style=for-the-badge&logo=vitest&logoColor=a78bfa)
 ![Postman](https://img.shields.io/badge/Postman-1a0533?style=for-the-badge&logo=postman&logoColor=e2623b)
 
 **Data, Databases & BI**
@@ -53,8 +56,8 @@
 
 ![Confluence](https://img.shields.io/badge/Confluence-1a0533?style=for-the-badge&logo=confluence&logoColor=818cf8)
 ![Jira](https://img.shields.io/badge/Jira-1a0533?style=for-the-badge&logo=jira&logoColor=818cf8)
-</div>
 
+</div>
 ---
 
 ## Projects
