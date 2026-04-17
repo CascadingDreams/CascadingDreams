@@ -58,7 +58,7 @@
 ![Jira](https://img.shields.io/badge/Jira-1a0533?style=for-the-badge&logo=jira&logoColor=818cf8)
 
 </div>
----
+
 
 ## Projects
 
