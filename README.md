@@ -11,7 +11,7 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=c4a8e8)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![C](https://img.shields.io/badge/C-1a0533?style=for-the-badge&logo=c&logoColor=c4a8e8)
 ![SQL](https://img.shields.io/badge/SQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=c4a8e8)
 ![Bash](https://img.shields.io/badge/Bash-1a0533?style=for-the-badge&logo=gnubash&logoColor=c4a8e8)
