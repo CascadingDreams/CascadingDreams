@@ -11,6 +11,7 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=c4a8e8)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=for-the-badge&logo=typescript&logoColor=3178c6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![C](https://img.shields.io/badge/C-1a0533?style=for-the-badge&logo=c&logoColor=c4a8e8)
 ![SQL](https://img.shields.io/badge/SQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=c4a8e8)
@@ -49,6 +50,8 @@
 ![Podman](https://img.shields.io/badge/Podman-1a0533?style=for-the-badge&logo=podman&logoColor=892ca0)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1a0533?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a0533?style=for-the-badge&logo=githubactions&logoColor=f3e8ff)
+![Vercel](https://img.shields.io/badge/Vercel-1a0533?style=for-the-badge&logo=vercel&logoColor=f3e8ff)
+![Render](https://img.shields.io/badge/Render-1a0533?style=for-the-badge&logo=render&logoColor=f3e8ff)
 ![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=e2623b)
 ![Linux](https://img.shields.io/badge/Linux-1a0533?style=for-the-badge&logo=linux&logoColor=c4a8e8)
 
@@ -66,10 +69,10 @@
 <tr>
 <td width="50%">
 
-### ⚡ [Kafka Notification Pipeline](https://github.com/CascadingDreams/kafka-notification-pipeline) `WIP`
+### ⚡ [Kafka Notification Pipeline](https://github.com/CascadingDreams/kafka-notification-pipeline)
 Event-driven pipeline inspired by financial services infrastructure — Hono producer validates requests with Zod and serialises events as Avro to Apache Kafka via Confluent Schema Registry, consumer processes and persists to PostgreSQL, React dashboard visualises live event throughput.
 
-**Stack:** TypeScript · Hono · kafkajs · Apache Kafka · Zod · Avro · PostgreSQL · React · Vite · Docker · vitest · GitHub Actions
+**Stack:** TypeScript · Hono · kafkajs · Apache Kafka · Avro · Confluent Schema Registry · Zod · PostgreSQL · React · Vite · Docker · Terraform · AWS · nginx · Vitest · GitHub Actions
 
 - Event-driven architecture with dead letter queue
 - Avro + Confluent Schema Registry for message contracts
@@ -95,7 +98,7 @@ A serverless AWS infrastructure health monitor — Lambda checks S3 availability
 ### 🎬 [StreamTracker](https://github.com/CascadingDreams/Simple-tv-and-movie-tracker)
 A full-stack streaming watchlist app with user authentication and smart recommendations.
 
-**Stack:** Python · Flask · PostgreSQL · Vanilla JS · Docker · TMDB API · JWT
+**Stack:** Python · Flask · PostgreSQL · Vanilla JS · Docker · TMDB API · JWT · Render · Vercel
 
 - JWT-based auth flow
 - Fully containerised with Docker
@@ -107,7 +110,7 @@ A full-stack streaming watchlist app with user authentication and smart recommen
 ### 🏠 [Victoria Mortgage Calculator](https://github.com/CascadingDreams/vic-home-calculator)
 An interactive calculator for Victorian first home buyers — stamp duty, grants, repayments.
 
-**Stack:** React · Vite · Vitest · GitHub Actions CI
+**Stack:** React · Vite · Vitest · GitHub Actions CI · Vercel
 
 - Full unit test coverage with Vitest
 - CI pipeline via GitHub Actions
