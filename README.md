@@ -177,5 +177,13 @@ Check out my custom skill: https://github.com/CascadingDreams/socratic-build
 <br/>
 
 <div align="center">
+<img src="imgs/Petal%20and%20freya.jpg" alt="Petal and Freya" width="600" style="border-radius: 12px;" />
+<br/>
+<sub><i>Petal & Freya — the real engineers behind the scenes 🐾</i></sub>
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e35b1,50:3b1f6b,100:1a0533&height=100&section=footer" />
 </div>
